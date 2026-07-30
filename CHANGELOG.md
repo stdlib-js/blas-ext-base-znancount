@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-24)
+## Unreleased (2026-07-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`abe2e55`](https://github.com/stdlib-js/stdlib/commit/abe2e550ce8c29d07dc21901e5ba4221f941a300) - **build:** add wasm configurations [(#13771)](https://github.com/stdlib-js/stdlib/pull/13771) _(by Karan Anand, Athan Reines)_
 -   [`e6cc42b`](https://github.com/stdlib-js/stdlib/commit/e6cc42bab0268753252236d0e7511c97443754cc) - **fix:** correct typo in enum name and fix C examples [(#13088)](https://github.com/stdlib-js/stdlib/pull/13088) _(by anee3)_
 -   [`5fabee9`](https://github.com/stdlib-js/stdlib/commit/5fabee94b1086a0db3c5d8dcac4b001bdf549b7b) - **bench:** fix description _(by Athan Reines)_
 -   [`00769bf`](https://github.com/stdlib-js/stdlib/commit/00769bf95066c75eb9b03ca7d8ac01fdc2bf79fc) - **chore:** add `blas` and `extended` keywords to `nancount` packages in `blas/ext/base` [(#12120)](https://github.com/stdlib-js/stdlib/pull/12120) _(by Philipp Burckhardt)_
@@ -47,9 +48,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Om-A-osc
 -   Philipp Burckhardt
 -   anee3
